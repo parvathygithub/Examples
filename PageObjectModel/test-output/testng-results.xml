@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18037" started-at="2022-08-18T21:19:21 IST" finished-at="2022-08-18T21:19:39 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18037" started-at="2022-08-18T21:19:21 IST" finished-at="2022-08-18T21:19:39 IST">
+      <class name="executetests.InputFormTest">
+        <test-method status="PASS" signature="Beforemethod()[pri:0, instance:executetests.InputFormTest@6dde5c8c]" name="Beforemethod" is-config="true" duration-ms="15182" started-at="2022-08-18T21:19:21 IST" finished-at="2022-08-18T21:19:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Beforemethod -->
+        <test-method status="PASS" signature="verfiyInputForm()[pri:0, instance:executetests.InputFormTest@6dde5c8c]" name="verfiyInputForm" duration-ms="2792" started-at="2022-08-18T21:19:37 IST" finished-at="2022-08-18T21:19:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verfiyInputForm -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:executetests.InputFormTest@6dde5c8c]" name="afterMethod" is-config="true" duration-ms="1" started-at="2022-08-18T21:19:39 IST" finished-at="2022-08-18T21:19:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- executetests.InputFormTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
